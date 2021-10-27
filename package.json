@@ -1,9 +1,10 @@
 {
   "private": false,
   "name": "react-jexcel",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "author": "https://github.com/sorryljt",
+  "keywords": ["react", "jexcel", "excel", "react-jexcel", "电子表格", "react版本的电子表格"],
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
