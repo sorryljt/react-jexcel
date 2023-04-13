@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "react-jexcel",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "author": "https://github.com/sorryljt",
   "keywords": ["react", "jexcel", "excel", "react-jexcel", "电子表格", "react版本的电子表格"],
